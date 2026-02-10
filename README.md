@@ -1,4 +1,4 @@
-# MARKETY – E-commerce Website UI
+# 📘 Case Study: MARKETY – E-commerce Website UI
 
 MARKETY is a responsive e-commerce website interface designed to simulate a modern online supermarket experience.  
 The project focuses on building a clean, structured, and responsive UI using HTML, CSS, and JavaScript without relying on frontend frameworks.
